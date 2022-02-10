@@ -1,4 +1,5 @@
 #include <iostream>
 #include <string>
-int z = 1;
+#include <vector>
 
+using namespace std;
